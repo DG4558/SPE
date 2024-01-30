@@ -3,7 +3,4 @@
 
 print("Hello World ...\n")
 print("Hello second....\n")
-print("Hello.....\n")
-print("hello....\n")
-print("hello third....\n")
-print("hello again...\n")
+
